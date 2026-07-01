@@ -137,7 +137,7 @@ export default function Home() {
               </h3>
 
               <p className="text-green-600 font-medium">
-                Monitoring every 5 minutes
+                Monitoring every minute. Last checked is sometimes the last update recieved.
               </p>
             </div>
 

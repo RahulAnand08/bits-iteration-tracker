@@ -143,7 +143,7 @@ export default function Home() {
 
             <button
                 onClick={subscribeToPush}
-                className="... text-black"
+                className="... text-blue-600 hover:text-blue-800 font-semibold mt-6"
             >
                 Enable Notifications
             </button>
